@@ -1,7 +1,8 @@
 # Survey-Form-Netflix
 
+![Animation](https://user-images.githubusercontent.com/102485608/186496728-80049f38-de5d-4758-b5b4-fec6fc054dbc.gif)
 
-![Animation](https://user-images.githubusercontent.com/99739515/165865901-efa3b5ae-c308-4efd-938a-f52542b5a300.gif)
+
 
 # Project-001 :Survey Form (HC-01)
 
